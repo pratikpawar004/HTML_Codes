@@ -1,42 +1,40 @@
-# verify badge acount on aero Instagram
+# verification badge on aero Instagram.
 
-This working only for aero Instagram uses
+This working only for aero Instagram users
 
 The link we used :- 
-
-https://raw.githubusercontent.com/pratikpawar004/verify/main/p.json
+https://raw.githubusercontent.com/1Sonawanerahul/Varify-/main/p.json
 
 how to use theis link
 First we make sure you download aero Instagram
-If you not download this trik not working 
-Aero Instagram link :-  https://aeroinsta.com/
+If you not download aero Instagram, this trik is not working 
+for you Aero Instagram link :-  https://aeroinsta.com/
 
 
 1) Then login and go to Aero Privileges or Aero s itetting 
 
-![IMG-20230317-WA0020](https://user-images.githubusercontent.com/115889762/225953764-4ad41798-b8c1-4951-9e09-3bb2b792c4b7.jpg)
+![Screenshot_2023-03-17-21-31-55-984-edit_com aeroinsta android](https://user-images.githubusercontent.com/125113590/225957148-098a827a-35d5-4530-847a-980144381936.jpg)
 
 2) Then go to "verify badge"
 
-![Screenshot_2023-03-02-10-44-51-450_com aeroinsta android](https://user-images.githubusercontent.com/115889762/222339208-b8913e55-3fe7-4f4d-ab06-38bcf0a816ea.jpg)
+![Screenshot_2023-03-17-21-39-47-927-edit_com aeroinsta android](https://user-images.githubusercontent.com/125113590/225959412-e818d1db-b238-42fc-afbe-5ce479f5922b.jpg)
 
 3) Then click on "aerointa servers"
 
-![IMG_20230302_110001](https://user-images.githubusercontent.com/115889762/222339528-b2379d4b-f9a6-4df9-91fa-db73570cdaee.jpg)
+![Screenshot_2023-03-17-21-45-16-574-edit_com aeroinsta android](https://user-images.githubusercontent.com/125113590/225962410-d0c2551a-e146-47fe-a6d0-1333cab22fd4.jpg)
 
 4) Click and choose "I will use my own server/URL link."
 
-![Screenshot_2023-03-02-10-43-38-000_com aeroinsta android](https://user-images.githubusercontent.com/115889762/222339886-9c41e377-81af-4b99-ba99-bfdc469a74d5.jpg)
+![Screenshot_2023-03-17-21-46-12-356-edit_com aeroinsta android](https://user-images.githubusercontent.com/125113590/225963063-37362e9a-53b4-4e34-a01b-4ef8198eb6bb.jpg)
 
 5) Then scroll down and click to "Enter your blue tick URL address."
 
-![Screenshot_2023-03-02-10-43-49-136_com aeroinsta android](https://user-images.githubusercontent.com/115889762/222340746-1f9fe382-e1af-4c66-bcc2-850f0e7c5d7c.jpg)
+![IMG_20230317_220711](https://user-images.githubusercontent.com/115889762/225965310-6e23f8ec-e373-4a92-9dc1-d5d631bb9d5e.jpg)
 
-6) Then pest the link " https://raw.githubusercontent.com/pratikpawar004/verify/main/p.json "
+6) Then pest the link " https://raw.githubusercontent.com/1Sonawanerahul/Varify-/main/p.json "
 
-![Screenshot_2023-03-02-10-43-59-063_com aeroinsta android](https://user-images.githubusercontent.com/115889762/222341098-6d8257fe-6711-423c-aa14-31abead50ced.jpg)
+![Screenshot_2023-03-17-21-52-49-347-edit_com aeroinsta android](https://user-images.githubusercontent.com/125113590/225963924-8b3a4400-cdb6-4a93-896d-65dfd333be74.jpg)
 
+You can request me for varification badge to add in your Instagram username.
 
-You can request my code to add your Instagram username
-
-Only This usernames have very badge
+Only This usernames have been varification badge.
