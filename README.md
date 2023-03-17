@@ -14,7 +14,7 @@ Aero Instagram link :-  https://aeroinsta.com/
 
 1) Then login and go to Aero Privileges or Aero s itetting 
 
-![IMG_20230302_105450](https://user-images.githubusercontent.com/115889762/222339054-82e1fbd0-2afe-436c-ae2f-060f5b37b016.jpg)
+![IMG-20230317-WA0020](https://user-images.githubusercontent.com/115889762/225953764-4ad41798-b8c1-4951-9e09-3bb2b792c4b7.jpg)
 
 2) Then go to "verify badge"
 
